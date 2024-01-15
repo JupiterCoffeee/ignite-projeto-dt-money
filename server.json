@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2024-01-11T17:27:11.433Z",
       "id": 4
+    },
+    {
+      "description": "Cerveja",
+      "category": "Alimentação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2024-01-11T18:12:21.662Z",
+      "id": 5
     }
   ]
 }
